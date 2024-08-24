@@ -43,7 +43,7 @@
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
-    <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
+    <string name="MULTIPLAYER">"مُتعدد اللاعبين"</string>
 
     <string name="JOIN">"إنضم"</string>
 
@@ -1116,7 +1116,7 @@
     <string name="POP_SPLIT">إنقسام الانفجار</string>
     <string name="PUSH_SPLIT">إنقسام الدفع</string>
     <string name="Level_Colors">اللوان المستوى</string>
-    <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكيه!</string>
+    <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
     <string name="Hooked">مُعلَق</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
     <string name="Pack">حزمة</string>
@@ -1130,7 +1130,7 @@
     <string name="BUY_NOW_">اشتري الآن !</string>
     <string name="already_purchased">أنت أو الشخص الذي تشتريه لهذا امتلاك هذا بالفعل.</string>
     <string name="Halo_Animations">مؤثرات صورة حافة الدائرة</string>
-    <string name="Trick_Notifications">اشعارات التلميحات</string>
+    <string name="Trick_Notifications">أشعارات التلميحات</string>
     <string name="Channel">قناة</string>
     <string name="Choose_Text_Size">اختار حجم النص</string>
     <string name="LEVEL_COLOR">مستوى اللون</string>
@@ -1175,7 +1175,7 @@
     <string name="DARK_MATTER">مادة مُظلِمه</string>
     <string name="Textures_will_be_regenerated_">سيتم تجديد القوام الأسود والأشكال المخصصة</string>
     <string name="Enable_Profile_Colors">تفعيل الوان الخلفية</string>
-    <string name="Session_Stats">احصائيات الجلسة</string>
+    <string name="Session_Stats">إحصائيات الجلسة</string>
     <string name="Time_">:الزمن</string>
     <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
     <string name="VALENTINES_DAY">"يوم الحب"</string>
@@ -1197,7 +1197,7 @@
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
-    <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
+    <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الآخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
     <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
     <string name="Only_leader_can_answer_requests_">"فَقط القائد يستطيع قبول الطلبات</string>
